@@ -1,0 +1,9 @@
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\bin\Debug\fmrPacientes.exe.config
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\bin\Debug\fmrPacientes.exe
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\bin\Debug\fmrPacientes.pdb
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\obj\Debug\fmrPacientes.csprojResolveAssemblyReference.cache
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\obj\Debug\fmrPacientes.Form1.resources
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\obj\Debug\fmrPacientes.Properties.Resources.resources
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\obj\Debug\fmrPacientes.csproj.GenerateResource.Cache
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\obj\Debug\fmrPacientes.exe
+c:\users\sergio-note\documents\visual studio 2015\Projects\fmrPacientes\fmrPacientes\obj\Debug\fmrPacientes.pdb

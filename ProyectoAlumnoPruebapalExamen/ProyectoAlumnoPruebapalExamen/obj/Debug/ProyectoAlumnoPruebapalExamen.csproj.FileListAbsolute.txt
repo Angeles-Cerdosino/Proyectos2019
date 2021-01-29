@@ -1,0 +1,9 @@
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\bin\Debug\ProyectoAlumnoPruebapalExamen.exe.config
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\obj\Debug\ProyectoAlumnoPruebapalExamen.csprojResolveAssemblyReference.cache
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\obj\Debug\ProyectoAlumnoPruebapalExamen.Form1.resources
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\obj\Debug\ProyectoAlumnoPruebapalExamen.Properties.Resources.resources
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\obj\Debug\ProyectoAlumnoPruebapalExamen.csproj.GenerateResource.Cache
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\bin\Debug\ProyectoAlumnoPruebapalExamen.exe
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\bin\Debug\ProyectoAlumnoPruebapalExamen.pdb
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\obj\Debug\ProyectoAlumnoPruebapalExamen.exe
+c:\users\sergio-note\documents\visual studio 2015\Projects\ProyectoAlumnoPruebapalExamen\ProyectoAlumnoPruebapalExamen\obj\Debug\ProyectoAlumnoPruebapalExamen.pdb

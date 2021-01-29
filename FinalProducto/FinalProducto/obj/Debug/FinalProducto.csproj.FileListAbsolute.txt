@@ -1,0 +1,9 @@
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\bin\Debug\FinalProducto.exe.config
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\obj\Debug\FinalProducto.csprojResolveAssemblyReference.cache
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\obj\Debug\FinalProducto.Form1.resources
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\obj\Debug\FinalProducto.Properties.Resources.resources
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\obj\Debug\FinalProducto.csproj.GenerateResource.Cache
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\bin\Debug\FinalProducto.exe
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\bin\Debug\FinalProducto.pdb
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\obj\Debug\FinalProducto.exe
+c:\users\sergio-note\documents\visual studio 2015\Projects\FinalProducto\FinalProducto\obj\Debug\FinalProducto.pdb
